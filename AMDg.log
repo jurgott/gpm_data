@@ -1,0 +1,33 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --file AMD
+  --geno 0.10
+  --mind 0.10
+  --out AMDg
+  --recode 12
+
+NOTE: This is the original AMD data with the --geno filter added.
+
+Hostname: 64GB-PC
+Working directory: C:\data\Josephine\FPM
+Start time: Sat Jan 13 10:02:23 2024
+
+Random number seed: 1705158143
+65208 MB RAM detected; reserving 32604 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (103611 variants, 146 people).
+--file: AMDg-temporary.bed + AMDg-temporary.bim + AMDg-temporary.fam written.
+103611 variants loaded from .bim file.
+146 people (146 males, 0 females) loaded from .fam.
+146 phenotype values loaded from .fam.
+0 people removed due to missing genotype data (--mind).
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 146 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.99189.
+  1,330 variants removed due to missing genotype data (--geno).
+102,281 variants and 146 people pass filters and QC.
+Among remaining phenotypes, 96 are cases and 50 are controls.
+--recode ped to AMDg.ped + AMDg.map ... done.
+
+End time: Sat Jan 13 10:02:25 2024

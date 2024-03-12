@@ -1,0 +1,15 @@
+gpm_data repository
+
+Here you'll find published case-control data previously generated in my lab
+at Rockefeller University, New York. The data are in standard plink format.
+I will add more datasets as they become available.
+Jurg Ott, ott@rockefeller.edu
+
+
+AMD: Age-related macular degeneration
+ Klein, R.J. et al. (2005) Complement factor H polymorphism in age-related 
+ macular degeneration. Science 308, 385-389. doi: 10.1126/science.1109557
+
+AMDHK: Age-related macular degeneration data collected in Hong Kong
+ Dewan, A. et al. (2006) HTRA1 promoter polymorphism in wet age-related
+ macular degeneration. Science 314, 989-992. doi: 10.1126/science.1133807
